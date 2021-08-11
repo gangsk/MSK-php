@@ -1,0 +1,19 @@
+.opac{
+    opacity: 0.8;
+}
+.clignote{
+    background-color: green;
+    color: white;
+}
+.error{
+    border: 1px solid red;
+    border-left: 10px solid red;
+}
+.successed{
+    border: 1px solid green;
+    border-left: 10px solid darkgreen;
+}
+
+.center{
+    text-align: center;
+}
